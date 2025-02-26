@@ -109,12 +109,17 @@ git config --global init.defaultBranch main
 ```
 
 # Conclusion
+
 The lab provided a practical introduction to setting up and managing our Git environment (in my case, using macOS). The configurations and commands were documented to complete this laboratory successfully.
 
 # Appendix
 ## Appendix A. Whoami Command
-## Appendix B. Git Installation
-## Appendix C. Git Configuration Commands
 
+![Whoami Command](./img/img1.png)
+
+## Appendix B. Git Installation
+![Git Installation](./img/img2.png)
+## Appendix C. Git Configuration Commands
+![Git Configuration Commands](./img/img3.png)
 # References
 Tomas, I. (n.d.). System vs Global vs Local Git config. Retrieved from [ihatetomatoes.net](https://ihatetomatoes.net/git-config-tutorial/#:~:text=System%20vs%20Global%20vs%20Local%20Git%20config&text=System%20Git%20config%20controls%20settings,settings%20for%20a%20specific%20repository)
